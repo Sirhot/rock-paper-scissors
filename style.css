@@ -1,0 +1,14 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+button{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+#result{
+    font-size: 40px;
+}
