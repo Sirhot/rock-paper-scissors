@@ -1,12 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Roboto&family=Unica+One&display=swap');
+
 *{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-family: 'Monoton', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Unica One', cursive;
+    font-size: 25px;
+    background-color: rgb(0, 63, 146);
+    color: yellow;
+    font-weight: bolder;
 }
 
 button{
     margin: 0px;
     padding: 0px;
-    color: white;
+    
 }
 
 #result{
